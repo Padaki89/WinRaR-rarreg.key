@@ -1,6 +1,6 @@
 # WinRaR-rarreg.key
 
-**Steps**
+# Steps
 
 1: Create a file called rarreg.key
 
@@ -10,7 +10,7 @@
 
 4: Paste the rarreg.key into WinRAR directory
 
-5: Enjoy :) ;)
+5: Enjoy :) ;) 
 
     RAR registration data
     Jagannath Padaki
