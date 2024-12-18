@@ -1,0 +1,1 @@
+# WinRaR-rarreg.key
