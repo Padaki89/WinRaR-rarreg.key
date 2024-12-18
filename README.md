@@ -2,9 +2,13 @@
 
 **Steps**
 1: Create a file called rarreg.key
+
 2: Paste into the file the raw content of this gist
+
 3: Go to Winrar install directory (by default => C:\Program Files\WinRAR)
+
 4: Paste the rarreg.key into WinRAR directory
+
 5: Enjoy :) ;)
 
     RAR registration data
