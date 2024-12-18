@@ -1,6 +1,7 @@
 # WinRaR-rarreg.key
 
 **Steps**
+
 1: Create a file called rarreg.key
 
 2: Paste into the file the raw content of this gist
