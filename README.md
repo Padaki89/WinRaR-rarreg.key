@@ -23,4 +23,4 @@
     bed73401ef58605cd30eea0d737195c9defa86bd6d6ff0894f8a5d
     db2a7bbfd2fb1d434053e402816e9a6a6558ca2423e88f8c6075d8
 
-<p align="center">Support Made with Trust ❤️</p>
+### <p align="center">Support Made with Trust ❤️</p>
